@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.pic{
+    background-color: red !important;
+}
+
+
+
+
+
+.noInternet{
+
+    animation: scaleing infinite linear 2s;
+}
+
+@keyframes scaleing{
+    0%{scale: 1;}
+    50%{scale: 1.01}
+    100%{scale: 1;}
+}
+
+
+
+
+
+
+
